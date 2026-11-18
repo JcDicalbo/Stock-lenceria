@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.env
+
+# PyInstaller / build
+build/
+dist/
+*.spec
+*.exe
+
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Instalador
+instalador/*.exe
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
